@@ -245,8 +245,32 @@ div p {
         width: 1100px;
     }
 
-    .alta-tecnologia {
-        display: none;
+    .col-content {
+        max-width: 68%;
+    }
+
+    .btn-content {
+        top: 80%;
+        right: 28%;
+    }
+
+    .oculos-sol {
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .tecnologia-img {
+        transform: translate(30%, 19%);
+    }
+
+    .tecnologia-text {
+        top: -4%;
+        right: 6%;
+    }
+
+    .btn-tecnologia {
+        top: 36%;
+        right: 21%;
     }
 
     .marcas-parceiras {
